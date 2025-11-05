@@ -26,12 +26,11 @@ It includes a header, articles section, sidebar (latest posts and related links)
 
 No additional libraries or setup are required.
 
-✅ Technologies Used
+✅ Technologies Used:
+
 HTML5
 
 CSS3
-
-Custom @font-face
 
 ---
 
