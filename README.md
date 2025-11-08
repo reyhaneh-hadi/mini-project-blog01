@@ -20,7 +20,7 @@ It includes a header, articles section, sidebar (latest posts and related links)
 
 1. Clone the repository:
 
-`git clone https://github.com/yourusername/repository-name.git`
+`git clone https://github.com/reyhaneh-hadi/mini-project-blog01`
 
 2. Open index.html in your web browser.
 
